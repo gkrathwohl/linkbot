@@ -1,5 +1,7 @@
 # linkbot
-A link-aggregating chatbot.
+A link-aggregating chatbot.  
+
+Made in Node.js with Microsoft Bot Builder: https://docs.botframework.com/en-us/node/builder/overview/
 
 This is a demo application using the Microsoft Bot Framework to write a bot that can connect to FB Messenger. 
 
